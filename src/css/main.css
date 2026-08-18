@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+body {
+    background-color:   #faf4ed;
+    color:              #464261;
+    font-family:        "Libertinus Serif", sans-serif;
+}
+
+.widget {
+    background-color: #f2e9e1;
+    border:             0.4mm #d7827e dashed;
+    padding:            10px;
+    border-radius:      2px;
+}
+
+.link {
+    color: #d7827e !important;
+}
+
+body {
+    position:       fixed;
+    margin-inline:  auto;
+    left:           0px;
+    right:          0px;
+    bottom:         25vw;
+    width:          30rem;
+    max-width:      100vw;
+}
